@@ -1,0 +1,38 @@
+{
+  "name": "ListjenTech",
+  "short_name": "ListjenTech",
+  "start_url": "https://kutilanga.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Informasi menarik seputar teknologi dan tutorial mudah dan lengkap",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-er27S-5vEWU/YJZMN_x1iPI/AAAAAAAAEGo/XyMbGaD7_8kFCBNO1f6tU43S-OTd0gtDgCLcBGAsYHQ/s48/20210508_152506.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5LlK_IQQIBE/YJZM1RuXjSI/AAAAAAAAEGw/Jj7k7eEAA1g3B9CiLRyFle_kNdw0-skmwCLcBGAsYHQ/s72/20210508_152542.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GiHUuHjgvgg/YJZNSqu1ULI/AAAAAAAAEG4/oJrsBu8t8VgxIj9J2oCHMos3PtZxWczqwCLcBGAsYHQ/s96/20210508_152627.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-2DdNHQLO5K8/YJZNlzUii1I/AAAAAAAAEHA/b-FJ5YJOEAgBDTi1wew5KqoebmyO4YtGQCLcBGAsYHQ/s144/20210508_152729.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-r2QKMruaVEo/YJZN-WzySQI/AAAAAAAAEHI/DhfMH3IUscI5moIJZTo5Nwao6DYxOT54ACLcBGAsYHQ/s168/20210508_152915.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-WeTbZ-iI3E0/YJZOPL8CkAI/AAAAAAAAEHQ/0_EH_FJPRuYQPbTIbajzbZ1gQEW-kxOrQCLcBGAsYHQ/s192/20210508_152939.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5WPbTrzO4xU/YJZOlBkCPkI/AAAAAAAAEHY/uhQ-ym1udGk24Wf6Kwo1vaen7xlUU9fmwCLcBGAsYHQ/s512/20210508_152440.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
